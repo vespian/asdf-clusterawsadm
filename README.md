@@ -1,4 +1,4 @@
-# asdf-clusterctl
+# asdf-clusterawsadm
 
 This repository contains [clusterawsadm](https://github.com/kubernetes-sigs/cluster-api-provider-aws) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
